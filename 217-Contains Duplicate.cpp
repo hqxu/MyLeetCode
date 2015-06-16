@@ -4,7 +4,7 @@ Contains Duplicate
 Given an array of integers, find if the array contains any duplicates.
 Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
 
-https://leetcode.com/problems/contains-duplicate/
+题目链接：https://leetcode.com/problems/contains-duplicate/
 
 一句话小结:  该题让我体会了C++ STL中几个容器(set/map, unordered_set/unordered_map)的异同点~  加深了对它们的了解，使用
 */
